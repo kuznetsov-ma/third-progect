@@ -1,0 +1,9 @@
+.header__lang-link {
+    text-decoration: none;
+    color: #fff;
+    padding-left: 18px;
+}
+
+.header__lang-link-active {
+    text-decoration: underline;    
+}
