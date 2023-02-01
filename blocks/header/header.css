@@ -8,22 +8,22 @@
 }
 
 @media screen and (max-width: 1024px) {
-  .header {      
+  .header {
     width: calc(100% - 2*48px);
     margin: 28px auto 0;
   }
 }
 
 @media screen and (max-width: 768px) {
-    .header {      
-      width: calc(100% - 2*24px);      
+    .header {
+      width: calc(100% - 2*24px);
       margin-top: 28px;
       margin-bottom: 0;
     }
   }
 
 @media screen and (max-width: 320px) {
-    .header {      
+    .header {
       width: calc(100% - 2*16px);
       margin: 16px auto 0;
     }

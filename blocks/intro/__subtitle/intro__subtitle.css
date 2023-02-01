@@ -5,3 +5,21 @@
     line-height: 163%;
     margin: 40px 0 33px;
 }
+
+@media screen and (max-width: 1280px) {
+    .intro__subtitle {
+      max-width: 690px;
+     }
+  }
+
+@media screen and (max-width: 1024px) {
+    .intro__subtitle {
+      max-width: 690px;
+     }
+  }
+
+  @media screen and (max-width: 320px) {
+    .intro__subtitle {
+      margin-bottom: 34px;
+     }
+  }
